@@ -1,4 +1,16 @@
+li{
+    list-style: none;
+}
+.caja{
+    background-color: #F8F8F8;
+}
 
+.todos{
+    color: rosybrown;
+}
+.boton{
+    float: right;
+}
 /* 
 
     You can write your own styles here...
